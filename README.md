@@ -20,26 +20,28 @@ Vedo i dati come un elemento chiave per il **processo decisionale** e per l’**
 
 Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e il mio **progresso nel tempo** 📈
 
-<br>
+---
 
 ### 🧠 Competenze
 - 💻 **Linguaggi**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
 - 🗄️ **Database**: Relational Databases, mySQL  
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode  
 
-<br>
+---
 
 ### 📂 Progetti  
 - **In arrivo🚧**  
   🔗 https://github.com/lorenzo-fattori
 
-<br>
+---
 
 ### 📫 Contatti
 - 💼 LinkedIn: https://www.linkedin.com/in/lorenzo-fattori
 - 📨 E-Mail: lorenzo.fattori@icloud.com
 
 ---
+
+<br>
 
 ## 🇬🇧 English
 
@@ -54,21 +56,26 @@ I see data as a key driver for **decision-making** and **innovation**, and I’m
 
 Here, I share projects that reflect my **learning process** and **progress over time** 📈
 
-<br>
+---
 
 ### 🧠 Skills
 - 💻 **Languages**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
 - 🗄️ **Databases**: Relational Databases, mySQL  
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode
 
-<br>
+---
 
 ### 📂 Projects  
 - **Soon🚧**  
    🔗 https://github.com/lorenzo-fattori
 
-<br>
+---
 
 ### 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/lorenzo-fattori
 - 📨 E-Mail: lorenzo.fattori@icloud.com
+
+---
+<p align="center">
+Chasing dreams
+</p>
