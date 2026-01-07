@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi, I'm Lorenzo | Ciao, sono Lorenzo
+# 👋 Ciao
 
 <p align="center">
   <a href="#-italiano">🇮🇹 Italiano</a> •
@@ -13,37 +12,26 @@
 ### 🚀 Chi sono
 Ciao, sono **Lorenzo** 👋  
 
-Sono uno studente di **Digital Transformation Management** presso l’**Università di Bologna**, con un forte interesse per la **data analytics** e i **processi aziendali**.
+Sono uno studente di **Digital Transformation Management** presso l’**Università di Bologna**, con un forte interesse per **data analytics** e i **processi aziendali**.
 
-Parallelamente agli studi, sto migliorando costantemente le mie competenze nel campo della **data analytics**, concentrandomi su **SQL**, **Python** e le sue principali librerie attraverso progetti pratici. Inoltre, lavoro come **studente lavoratore**.
+Parallelamente agli studi, sto migliorando costantemente le mie competenze nel campo **data analytics**, concentrandomi su **SQL**, **Python** e le sue principali librerie attraverso progetti pratici.
 
 Vedo i dati come un elemento chiave per il **processo decisionale** e per l’**innovazione**, e sto sfruttando questa fase del mio percorso accademico per esplorare, sperimentare e imparare il più possibile.
 
-Qui e sul mio profilo GitHub condivido progetti che rappresentano il mio **percorso di apprendimento** e i miei **progressi nel tempo** 📈
+Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e il mio **progresso nel tempo** 📈
 
 ---
 
 ### 🧠 Competenze
-- 💻 **Linguaggi**: Python, SQL  
-- 📊 **Data Analytics**: Pandas, NumPy, Matplotlib, Seaborn  
-- 🗄️ **Database**: Relational Databases, SQL  
-- ⚙️ **Tools**: Git, GitHub, Jupyter Notebook  
-- 🧩 **Altro**: Business Process Analysis, Data-driven Decision Making  
+- 💻 **Linguaggi**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
+- 🗄️ **Database**: Relational Databases, mySQL  
+- ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode  
 
 ---
 
 ### 📂 Progetti
-- **🔹 Data Analysis Projects**
-  - Analisi esplorativa dei dati e visualizzazione
-  - 🛠 Python, Pandas, Matplotlib
-  - 🔗 https://github.com/lorenzo-fattori
-
-- **🔹 SQL Projects**
-  - Query e analisi su database relazionali
-  - 🛠 SQL
-  - 🔗 https://github.com/lorenzo-fattori
-
-*(altri progetti in arrivo 🚧)*
+- **In arrivo🚧**
+  🔗 https://github.com/lorenzo-fattori
 
 ---
 
@@ -68,33 +56,24 @@ Hi, I’m **Lorenzo** 👋
 
 I’m a **Digital Transformation Management** student at the **University of Bologna**, with a strong interest in **data analytics** and **business processes**.
 
-Alongside my studies, I’m continuously improving my skills in the **data analytics** field, focusing on **SQL**, **Python**, and its main libraries through hands-on projects. I also work as a **student employee**.
+Alongside my studies, I’m continuously improving my skills in the **data analytics** field, focusing on **SQL**, **Python**, and its main libraries through hands-on projects.
 
 I see data as a key driver for **decision-making** and **innovation**, and I’m using this phase of my academic journey to explore, experiment, and learn as much as possible.
 
-Here and on my GitHub profile, I share projects that reflect my **learning process** and **progress over time** 📈
+Here, I share projects that reflect my **learning process** and **progress over time** 📈
 
 ---
 
 ### 🧠 Skills
-- 💻 **Languages**: Python, SQL  
-- 📊 **Data Analytics**: Pandas, NumPy, Matplotlib, Seaborn  
-- 🗄️ **Databases**: Relational Databases, SQL  
-- ⚙️ **Tools**: Git, GitHub, Jupyter Notebook  
-- 🧩 **Other**: Business Process Analysis, Data-driven Decision Making  
+- 💻 **Languages**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
+- 🗄️ **Databases**: Relational Databases, mySQL  
+- ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode
 
 ---
 
 ### 📂 Projects
-- **🔹 Data Analysis Projects**
-  - Exploratory data analysis and visualization
-  - 🛠 Python, Pandas, Matplotlib
-  - 🔗 https://github.com/lorenzo-fattori
-
-- **🔹 SQL Projects**
-  - Queries and analysis on relational databases
-  - 🛠 SQL
-  - 🔗 https://github.com/lorenzo-fattori
+- **Soon🚧**
+   🔗 https://github.com/lorenzo-fattori
 
 ---
 
