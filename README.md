@@ -1,11 +1,47 @@
 # 👋 Ciao
 
 <p align="center">
-  <a href="#-italiano">🇮🇹 Italiano</a> •
-  <a href="#-english">🇬🇧 English</a>
+  <a href="#-english">🇬🇧 English</a> •  
+  <a href="#-italiano">🇮🇹 Italiano</a>
 </p>
 
 ---
+
+## 🇬🇧 English
+
+### 🚀 About me
+Hi, I’m **Lorenzo** 👋  
+
+I’m a **Digital Transformation Management** student at the **University of Bologna**, with a strong interest in **data analytics** and **business processes**.
+
+Alongside my studies, I’m continuously improving my skills in the **data analytics** field, focusing on **SQL**, **Python**, and its main libraries through hands-on projects.
+
+I see data as a key driver for **decision-making** and **innovation**, and I’m using this phase of my academic journey to explore, experiment, and learn as much as possible.
+
+Here, I share projects that reflect my **learning process** and **progress over time** 📈
+
+---
+
+### 🧠 Skills
+- 💻 **Languages**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
+- 🗄️ **Databases**: Relational Databases, mySQL  
+- ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode
+
+---
+
+### 📂 Projects  
+- **Soon🚧**  
+   🔗 https://github.com/lorenzo-fattori
+
+---
+
+### 📫 Contact
+- 💼 LinkedIn: https://www.linkedin.com/in/lorenzo-fattori
+- 📨 E-Mail: lorenzo.fattori@icloud.com
+
+---
+
+<br>
 
 ## 🇮🇹 Italiano
 
@@ -41,41 +77,6 @@ Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e 
 
 ---
 
-<br>
-
-## 🇬🇧 English
-
-### 🚀 About me
-Hi, I’m **Lorenzo** 👋  
-
-I’m a **Digital Transformation Management** student at the **University of Bologna**, with a strong interest in **data analytics** and **business processes**.
-
-Alongside my studies, I’m continuously improving my skills in the **data analytics** field, focusing on **SQL**, **Python**, and its main libraries through hands-on projects.
-
-I see data as a key driver for **decision-making** and **innovation**, and I’m using this phase of my academic journey to explore, experiment, and learn as much as possible.
-
-Here, I share projects that reflect my **learning process** and **progress over time** 📈
-
----
-
-### 🧠 Skills
-- 💻 **Languages**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
-- 🗄️ **Databases**: Relational Databases, mySQL  
-- ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode
-
----
-
-### 📂 Projects  
-- **Soon🚧**  
-   🔗 https://github.com/lorenzo-fattori
-
----
-
-### 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/lorenzo-fattori
-- 📨 E-Mail: lorenzo.fattori@icloud.com
-
----
 <p align="center">
 Chasing dreams
 </p>
