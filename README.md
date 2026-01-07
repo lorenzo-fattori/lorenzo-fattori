@@ -79,4 +79,3 @@ Here, I share projects that reflect my **learning process** and **progress over 
 <p align="center">
 Chasing dreams
 </p>
-https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-fattori&layout=compact&theme=radical
