@@ -29,23 +29,15 @@ Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e 
 
 ---
 
-### 📂 Progetti
-- **In arrivo🚧**
+### 📂 Progetti  
+- **In arrivo🚧**  
   🔗 https://github.com/lorenzo-fattori
-
----
-
-### 📊 Statistiche GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenzo-fattori&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-fattori&layout=compact" />
-</p>
 
 ---
 
 ### 📫 Contatti
 - 💼 LinkedIn: https://www.linkedin.com/in/lorenzo-fattori
+- 📨 E-Mail: lorenzo.fattori@icloud.com
 
 ---
 
@@ -71,20 +63,12 @@ Here, I share projects that reflect my **learning process** and **progress over 
 
 ---
 
-### 📂 Projects
-- **Soon🚧**
+### 📂 Projects  
+- **Soon🚧**  
    🔗 https://github.com/lorenzo-fattori
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lorenzo-fattori&show_icons=true&theme=default" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-fattori&layout=compact" />
-</p>
 
 ---
 
 ### 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/lorenzo-fattori
+- 📨 E-Mail: lorenzo.fattori@icloud.com
