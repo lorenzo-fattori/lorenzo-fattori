@@ -39,6 +39,8 @@ Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e 
 - 💼 LinkedIn: https://www.linkedin.com/in/lorenzo-fattori
 - 📨 E-Mail: lorenzo.fattori@icloud.com
 
+<br>
+
 ---
 
 ## 🇬🇧 English
