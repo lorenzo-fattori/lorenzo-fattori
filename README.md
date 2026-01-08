@@ -77,6 +77,8 @@ Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e 
 
 ---
 
+<br>
+
 <p align="center">
 Chasing dreams
 </p>
