@@ -24,7 +24,6 @@ Here, I share projects that reflect my **learning process** and **progress over 
 
 ### 🧠 Skills
 - 💻 **Languages**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
-- 🗄️ **Databases**: Relational Databases, mySQL  
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode
 
 ---
@@ -60,7 +59,6 @@ Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e 
 
 ### 🧠 Competenze
 - 💻 **Linguaggi**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
-- 🗄️ **Database**: Relational Databases, mySQL  
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode  
 
 ---
