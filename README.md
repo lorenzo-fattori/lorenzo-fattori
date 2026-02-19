@@ -23,7 +23,8 @@ Here, I share projects that reflect my **learning process** and **progress over 
 ---
 
 ### 🧠 Skills
-- 💻 **Languages**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
+- 💻 **Languages**: Python, SQL
+- 📊 **Currently learning**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode
 
 ---
@@ -58,7 +59,8 @@ Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e 
 ---
 
 ### 🧠 Competenze
-- 💻 **Linguaggi**: Python, SQL  <!-- - 📊 **Data Analytics**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn  -->
+- 💻 **Linguaggi**: Python, SQL
+- 📊 **Imparando**: MongoDB, NumPy, Pandas, Matplotlib, Seaborn
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode  
 
 ---
