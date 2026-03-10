@@ -24,7 +24,7 @@ Here, I share projects that reflect my **learning process** and **progress over 
 
 ### 🧠 Skills
 - 💻 **Languages**: Python, SQL
-- 📊 **Currently learning**: DSA <!--, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
+- 📊 **Currently learning**: Harvard CS50 <!--, DSA, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode
 
 ---
@@ -60,7 +60,7 @@ Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e 
 
 ### 🧠 Competenze
 - 💻 **Linguaggi**: Python, SQL
-- 📊 **Imparando**: DSA <!--, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
+- 📊 **Imparando**: Harvard CS50 <!--, DSA, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode  
 
 ---
