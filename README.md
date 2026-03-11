@@ -14,7 +14,7 @@ Hi, I’m **Lorenzo** 👋
 
 I’m a **Digital Transformation Management** student at the **University of Bologna**, with a strong interest in **data science**, **data analytics** and **business processes**.
 
-Alongside my studies, I’m continuously improving my skills in **data science** and **data analytics**, working with **SQL**, **Python**, and its main libraries through hands-on projects.
+Alongside my studies, I’m continuously improving my skills in **data science** and **data analytics**, focusing with **SQL**, **Python**, and its main libraries through hands-on projects.
 
 I see data as a key driver for **decision-making** and **innovation**, and I’m using this phase of my academic journey to explore, experiment, and learn as much as possible.
 
@@ -50,7 +50,7 @@ Ciao, sono **Lorenzo** 👋
 
 Sono uno studente di **Digital Transformation Management** presso l’**Università di Bologna**, con un forte interesse per **data science**, **data analytics** e i **processi aziendali**.
 
-Parallelamente agli studi, sto migliorando costantemente le mie competenze nel campo **data science** e **data analytics**, lavorando su **SQL**, **Python** e le sue principali librerie attraverso progetti pratici.
+Parallelamente agli studi, sto migliorando costantemente le mie competenze nel campo **data science** e **data analytics**, concentrandomi su **SQL**, **Python** e le sue principali librerie attraverso progetti pratici.
 
 Vedo i dati come un elemento chiave per il **processo decisionale** e per l’**innovazione**, e sto sfruttando questa fase del mio percorso accademico per esplorare, sperimentare e imparare il più possibile.
 
