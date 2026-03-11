@@ -12,11 +12,11 @@
 ### 🚀 About me
 Hi, I’m **Lorenzo** 👋  
 
-I’m a **Digital Transformation Management** student at the **University of Bologna**, with a strong interest in **data science**, **data analytics** and **business processes**.
+I’m a **Digital Transformation Management** student at the **University of Bologna**, with a strong interest in **data science**, **data analytics**, and **business processes**.
 
-Alongside my studies, I’m continuously improving my skills in **data science** and **data analytics**, focusing with **SQL**, **Python**, and its main libraries through hands-on projects.
+Alongside my studies, I’m continuously improving my skills in **data science** and **data analytics**, focusing on **SQL**, **Python**, and its main libraries through hands-on projects.
 
-I see data as a key driver for **decision-making** and **innovation**, and I’m using this phase of my academic journey to explore, experiment, and learn as much as possible.
+I see data as a key driver of **decision-making** and **innovation**, and I’m using this phase of my academic journey to explore, experiment, and learn as much as possible.
 
 Here, I share projects that reflect my **learning process** and **progress over time** 📈
 
@@ -25,7 +25,7 @@ Here, I share projects that reflect my **learning process** and **progress over 
 ### 🧠 Skills
 - 💻 **Languages**: Python, SQL
 - 📊 **Currently learning**: Harvard CS50 <!--, DSA, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
-- ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode
+- ⚙️ **Tools**: GitHub, Jupyter Notebook, VS Code
 
 ---
 
@@ -61,7 +61,7 @@ Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e 
 ### 🧠 Competenze
 - 💻 **Linguaggi**: Python, SQL
 - 📊 **Imparando**: Harvard CS50 <!--, DSA, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
-- ⚙️ **Tools**: GitHub, Jupyter Notebook, VSCode  
+- ⚙️ **Tools**: GitHub, Jupyter Notebook, VS Code  
 
 ---
 
