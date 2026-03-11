@@ -30,8 +30,8 @@ Here, I share projects that reflect my **learning process** and **progress over 
 ---
 
 ### 📂 Projects  
-- **Soon🚧**  
-   🔗 https://github.com/lorenzo-fattori
+- **DTM Database Systems project: Soccer Tournament Database**  
+   🔗 https://github.com/lorenzo-fattori/dtm-soccer-tournament-db
 
 ---
 
@@ -66,8 +66,8 @@ Qui condivido progetti che rappresentano il mio **percorso di apprendimento** e 
 ---
 
 ### 📂 Progetti  
-- **In arrivo🚧**  
-  🔗 https://github.com/lorenzo-fattori
+- **DTM Database Systems project: Soccer Tournament Database**    
+  🔗 https://github.com/lorenzo-fattori/dtm-soccer-tournament-db
 
 ---
 
