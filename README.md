@@ -12,6 +12,7 @@
 ### 🚀 About me
 Hi, I’m Lorenzo 👋
 
+
 I’m a **Digital Transformation Management** student at the **University of Bologna**, with a strong interest in **data science**, **data analytics**, and **business processes**.
 
 Alongside my studies, I’m continuously improving my skills in the **data** field, focusing on **SQL**, **Python**, and its main libraries through hands-on projects.
