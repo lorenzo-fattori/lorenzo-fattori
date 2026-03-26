@@ -24,7 +24,7 @@ Here and on my LinkedIn profile, I share projects that reflect my **learning pro
 
 ### 🧠 Skills
 - 💻 **Languages**: Python, SQL
-- 📊 **Currently learning**: Git, GitHub <!--Harvard CS50, DSA, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
+- 📊 **Currently learning**: Harvard CS50 <!--,DSA, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VS Code
 
 ---
@@ -60,7 +60,7 @@ Qui e sul mio profilo LinkedIn condivido progetti che riflettono il mio **percor
 
 ### 🧠 Competenze
 - 💻 **Linguaggi**: Python, SQL
-- 📊 **Imparando**: Git, GitHub <!--Harvard CS50, DSA, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
+- 📊 **Imparando**: Harvard CS50<!--, DSA, MongoDB, NumPy, Pandas, Matplotlib, Scikit-learn-->
 - ⚙️ **Tools**: GitHub, Jupyter Notebook, VS Code  
 
 ---
