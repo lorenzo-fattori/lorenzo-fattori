@@ -1,4 +1,4 @@
-# 👋 Ciao
+# 👋 Hey
 
 <p align="center">
   <a href="#-english">🇬🇧 English</a> •  
