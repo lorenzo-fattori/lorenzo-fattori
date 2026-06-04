@@ -46,7 +46,7 @@ Here and on my LinkedIn profile, I share projects that reflect my **learning pro
 ## 🇮🇹 Italiano
 
 ### 🚀 Chi sono
-Ciao, sono Lorenzo 👋
+Ciao, sono Lorenzo Fattori 👋
 
 Sono uno studente di **Digital Transformation Management** all’**Università di Bologna**, con un forte interesse per la **data science**, l’**analisi dei dati** e i **processi aziendali**.
 
