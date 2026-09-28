@@ -20,7 +20,7 @@ I see data as a key driver of **decision-making** and **innovation**, and I’m 
 
 Here and on my LinkedIn profile, I share projects that reflect my **learning process** and **progress over time**. 📈
 
-- 📄 [CV](https://github.com/lorenzo-fattori/cv/blob/main/Lorenzo_Fattori_CV_en.pdf)
+📄 [CV](https://github.com/lorenzo-fattori/cv/blob/main/Lorenzo_Fattori_CV_en.pdf)
 
 ---
 
@@ -57,7 +57,7 @@ Vedo i dati come un fattore chiave per supportare il **processo decisionale** e 
 
 Qui e sul mio profilo LinkedIn condivido progetti che riflettono il mio **percorso di apprendimento** e i miei **progressi nel tempo**. 📈
 
-- 📄 [CV](https://github.com/lorenzo-fattori/cv/blob/main/Lorenzo_Fattori_CV_it.pdf)
+📄 [CV](https://github.com/lorenzo-fattori/cv/blob/main/Lorenzo_Fattori_CV_it.pdf)
 
 ---
 
