@@ -32,7 +32,9 @@ Here and on my LinkedIn profile, I share projects that reflect my **learning pro
 ---
 
 ### 📂 Projects  
+- [**DTM Software Engineering project: splitPy**](https://github.com/unibo-dtm-se-2526-splitPy/splitPy) 🚧
 - [**DTM Database Systems project: Soccer Tournament Database**](https://github.com/lorenzo-fattori/dtm-soccer-tournament-db)
+
 
 ---
 
@@ -69,6 +71,7 @@ Qui e sul mio profilo LinkedIn condivido progetti che riflettono il mio **percor
 ---
 
 ### 📂 Progetti  
+- [**DTM Software Engineering project: splitPy**](https://github.com/unibo-dtm-se-2526-splitPy/splitPy) 🚧
 - [**DTM Database Systems project: Soccer Tournament Database**](https://github.com/lorenzo-fattori/dtm-soccer-tournament-db)
 
 ---
