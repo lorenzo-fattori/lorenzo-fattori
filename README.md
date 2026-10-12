@@ -53,7 +53,7 @@ Ciao, sono Lorenzo 👋
 
 Sono uno studente di **Digital Transformation Management** all’**Università di Bologna**, con un forte interesse per la **data science**, l’**analisi dei dati** e i **processi aziendali**.
 
-Parallelamente ai miei studi, continuo a migliorare le mie competenze nel campo dei **dati**, concentrandomi su **Python** e sulle sue principali librerie attraverso progetti pratici.
+Parallelamente ai miei studi, sto continuando a migliorare le mie competenze nel campo dei **dati**, concentrandomi su **Python** e sulle sue principali librerie attraverso progetti pratici.
 
 Vedo i dati come un fattore chiave per supportare il **processo decisionale** e l’**innovazione**, e sto sfruttando questa fase del mio percorso accademico per esplorare, sperimentare e imparare il più possibile.
 
