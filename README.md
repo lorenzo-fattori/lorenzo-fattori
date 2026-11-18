@@ -7,7 +7,7 @@
 
 ---
 
-## 🇬🇧 English
+## 🇬🇧 Inglese
 
 ### 🚀 About me
 Hi, I’m Lorenzo 👋
